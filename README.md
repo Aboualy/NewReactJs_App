@@ -1,8 +1,8 @@
 # NewReactJs_App
 
-![screen shot 2018-09-27 at 22 46 17](https://user-images.githubusercontent.com/32483438/46177211-bcad9c00-c2ba-11e8-8ab1-105753d5649a.png)
-![screen shot 2018-09-27 at 22 46 21](https://user-images.githubusercontent.com/32483438/46177222-c800c780-c2ba-11e8-8c64-56a66e6708f8.png)
-![screen shot 2018-09-27 at 22 46 25](https://user-images.githubusercontent.com/32483438/46177223-c800c780-c2ba-11e8-9dd0-10feff9f9e0c.png)
-![screen shot 2018-09-27 at 22 46 28](https://user-images.githubusercontent.com/32483438/46177224-c800c780-c2ba-11e8-8118-86231a916e79.png)
-![screen shot 2018-09-27 at 22 46 32](https://user-images.githubusercontent.com/32483438/46177225-c8995e00-c2ba-11e8-88fd-019b4774fa73.png)
-![screen shot 2018-09-28 at 0 46 08](https://user-images.githubusercontent.com/32483438/46177227-c8995e00-c2ba-11e8-9302-bb137f7eed65.png)
+
+![screen shot 2018-09-28 at 1 09 22](https://user-images.githubusercontent.com/32483438/46177355-40678880-c2bb-11e8-94b5-8bc51bd70d14.png)
+![screen shot 2018-09-28 at 1 09 25](https://user-images.githubusercontent.com/32483438/46177356-40678880-c2bb-11e8-9f59-f8135f524343.png)
+![screen shot 2018-09-28 at 1 09 32](https://user-images.githubusercontent.com/32483438/46177357-40678880-c2bb-11e8-8665-32cb62511832.png)
+![screen shot 2018-09-28 at 1 09 36](https://user-images.githubusercontent.com/32483438/46177358-41001f00-c2bb-11e8-946c-847193764242.png)
+
